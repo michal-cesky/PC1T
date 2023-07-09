@@ -1,0 +1,4 @@
+C:\Users\Oem\Desktop\FunExt\x64\Debug\FunExt.exe
+C:\Users\Oem\Desktop\FunExt\x64\Debug\FunExt.pdb
+C:\Users\Oem\Desktop\škola\VŠ\PC1T\cvičení\CV03\C03\FunExt\x64\Debug\FunExt.exe
+C:\Users\Oem\Desktop\škola\VŠ\PC1T\cvičení\CV03\C03\FunExt\x64\Debug\FunExt.pdb

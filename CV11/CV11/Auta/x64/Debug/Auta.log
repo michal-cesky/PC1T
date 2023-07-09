@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Zprostředkující adresář (x64\Debug\) obsahuje soubory sdílené z jiného projektu (Auta.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  Hudba.cpp
+  hudbaDB.cpp
+  Generování kódu...
+  Auta.vcxproj -> C:\Users\Oem\OneDrive - Vysoké učení technické v Brně\škola\VŠ\1. ročník\1. semestr\PC1T\Cvičení\CV11\CV11\Auta\x64\Debug\Hudba.exe

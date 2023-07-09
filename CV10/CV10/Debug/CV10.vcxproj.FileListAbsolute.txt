@@ -1,0 +1,5 @@
+D:\BPC1T-2020\CV10\Debug\CV10.exe
+D:\BPC1T-2020\CV10\Debug\CV10.pdb
+C:\Users\Oem\Desktop\CV10\CV10\Debug\CV10.exe
+C:\Users\Oem\Desktop\CV10\CV10\Debug\CV10.pdb
+C:\Users\Oem\OneDrive - Vysoké učení technické v Brně\škola\VŠ\1. ročník\1. semestr\PC1T\cvičení\CV10\CV10\Debug\CV10.exe
